@@ -30,6 +30,8 @@ button {
     width: 900px;
     height: 600px;
     padding: 25px;
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
 
 #about-image {
